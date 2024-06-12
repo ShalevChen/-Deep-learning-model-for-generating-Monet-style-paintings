@@ -13,3 +13,4 @@ capture and replicate the essential stylistic elements characterizing an
 artist’s oeuvre. Achieving this artistic style transfer through algorithmic means
 presents significant challenges at the intersection of computer vision, deep learning,
 and fine arts, making it an intriguing interdisciplinary exploration.
+
